@@ -2,7 +2,7 @@
 
 --
 
-![Screenshot of ERD](./sketchy-img.png)
+![Screenshot of index](./sketchy-img.png)
 ### Brief Description
 
 A sketch app where you make a drawing/sketch based off a random prompt. This image can be saved, edited, and deleted. 
