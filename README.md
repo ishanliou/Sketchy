@@ -12,7 +12,7 @@ Basic CRUD app for sketches
 An app where you can play telephone pictionary and have a hilarious time. 
 
 --
-###Explanation of Technologies Used
+### Explanation of Technologies Used
 
 **Backend:**
 
@@ -37,15 +37,12 @@ Screenshot of wireframe
 ![Screenshot of wireframe](./Screenshots/Sketchy_wireframe.jpg)
 
 
-![Screenshot of User-Session API](./Screenshots/User-Session-API.png)
-
-![Screenshot of Sketch API](./Screenshots/Sketch-API.png)
 
 --
 
 --
 
-###Approach Taken
+### Approach Taken
 
 **1. Lots of Planning**
 
@@ -70,7 +67,7 @@ Once we had most of our MVP complete, we did a lot of testing to find bugs and c
 
 --
 
-###Major Hurdles & Victories
+### Major Hurdles & Victories
 * Staying on top of merge conflicts
 * Fixing the edit and update bugs
 
